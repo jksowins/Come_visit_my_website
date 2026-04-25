@@ -8,9 +8,9 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="/Come_visit_my_website/static/imgs/understanding_vs_frequency.png" alt="understanding_vs_frequency" width="400"/>
 
-<img src="/Come_visit_my_website/static/imgs/rating_vs_understanding.png" alt="rating_vs_understanding" width="400"/>
-
 <img src="/Come_visit_my_website/static/imgs/rating_vs_frequency.png" alt="rating_vs_frequency" width="400"/>
+
+<img src="/Come_visit_my_website/static/imgs/rating_vs_understanding.png" alt="rating_vs_understanding" width="400"/>
 
 ## Introduction and Analysis
 
