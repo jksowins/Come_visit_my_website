@@ -6,13 +6,11 @@ layout: default
 # Do pre-lecture videos assist in a student's understading of the content?
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/Come_visit_my_website/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="/Come_visit_my_website/static/imgs/rating_vs_frequency.png" alt="rating_vs_frequency" width="400"/>
 
-<img src="/Come_visit_my_website/static/imgs/rating_vs_frequency.png" alt="rating_vs_frequency" width="500"/>
+<img src="/Come_visit_my_website/static/imgs/rating_vs_understanding.png" alt="rating_vs_understanding" width="400"/>
 
-<img src="/Come_visit_my_website/static/imgs/rating_vs_understanding.png" alt="rating_vs_understanding" width="500"/>
-
-<img src="/Come_visit_my_website/static/understanding_vs_frequency.png" alt="understanding_vs_frequency" width="500"/>
+<img src="/Come_visit_my_website/static/imgs/understanding_vs_frequency.png" alt="understanding_vs_frequency" width="400"/>
 
 ## Analysis of pre-lecture video watch time
 
